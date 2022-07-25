@@ -11,25 +11,17 @@
 	.place__title {
 		font-size: 42px;
 		line-height: 46px;
-		white-space: pre-line;
-		margin: 0;
-		width: 100%;
-
+		padding-right: 10px;
+		
 	}
 }
+
 @media screen and (max-width: 767px) {
 	.place__title {
 		font-size: 32px;
 		line-height: 36px;
-		max-width: 288px;
-		margin: auto;
-		width: 100%;
-
-	}
-}
-@media screen and (max-width: 320px) {
-	.place__title {
-		white-space: nowrap;
+		max-width: 262px;
+		margin: 0 0 0 16px;
 	}
 }
 
