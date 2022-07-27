@@ -9,7 +9,6 @@
 	.place {
 		grid-template-columns: 440px 1fr;
 		column-gap: 32px;
-
 	}
 }
 
@@ -25,6 +24,5 @@
 	.place {
 		grid-template-columns: 1fr;
 		row-gap: 0;
-
 	}
 }
