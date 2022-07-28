@@ -1,5 +1,6 @@
 .places {
 	display: grid;
+	justify-content: center;
 	grid-template-rows: repeat(5, min-content);
 	padding: 92px 0 92px 0;
 	row-gap: 80px;
